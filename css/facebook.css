@@ -1,0 +1,44 @@
+* body{
+   background-color:#edf0f5;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.section {
+   background-color: #3b5998;
+   height: 80px;
+   border-bottom: solid 3px #133783;  
+}
+
+.section img{
+   width:180px;
+   height: auto;
+}
+
+.section input{
+   width:150px;
+   padding:0,20px;
+   height: 30px;
+}
+
+.section .col-lg-5 {
+   color: white;
+}
+
+.section .container{
+   padding-top:10px;
+}
+
+.section button{
+   background-color: #002470;
+   color:white;
+   border:none;
+   height:30px;
+}
+
+#options img{
+   width: 80px;
+   height: auto;
+   padding-right: 10px;
+}
